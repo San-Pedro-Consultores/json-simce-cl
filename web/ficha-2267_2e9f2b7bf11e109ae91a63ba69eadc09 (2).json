@@ -1,0 +1,41 @@
+{
+    "valores": {
+        "tiene_informe_visita_2017": "NO", 
+        "tiene_informe_visita_2018": "NO",
+        "tiene_informe_visita_2019_t": "NO",
+        "tiene_informe_visita_2019_im": "NO",
+        "tiene_informe_visita_2019_i": "NO",
+        "dl_rbd": "2267",
+        "tiene_informe_visita_2020": "NO"
+    },
+    "campos": [
+        {
+            "funcion": "",
+            "campo": "dl_rbd"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2017"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2018"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2019_im"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2019_i"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2019_t"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_informe_visita_2020"
+        }
+    ]
+}
