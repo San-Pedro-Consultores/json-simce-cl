@@ -402,7 +402,7 @@
                     "$id": "#/properties/valores/properties/dt_tcdm_2019",
                     "type": "string",
                     "title": "The dt_tcdm_2019 schema",
-                    "description": "Promedio 2019",
+                    "description": "Campo MEdia",
                     "default": "",
                     "examples": [
                         "Medio"
@@ -462,7 +462,7 @@
                     "$id": "#/properties/valores/properties/dt_tcdb_2019",
                     "type": "string",
                     "title": "The dt_tcdb_2019 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Campo educación básica",
                     "default": "",
                     "examples": [
                         "Medio"
@@ -542,7 +542,7 @@
                     "$id": "#/properties/valores/properties/dl_niveles",
                     "type": "string",
                     "title": "The dl_niveles schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Nivel educacional",
                     "default": "",
                     "examples": [
                         "8b"
@@ -572,7 +572,7 @@
                     "$id": "#/properties/valores/properties/dt_tdif_8b_am_2019_2017",
                     "type": "string",
                     "title": "The dt_tdif_8b_am_2019_2017 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variacion del puntaje con año anterior (cifras), autoestima y motivación",
                     "default": "",
                     "examples": [
                         "(-8 puntos)"
@@ -622,7 +622,7 @@
                     "$id": "#/properties/valores/properties/dl_comuna",
                     "type": "string",
                     "title": "The dl_comuna schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Comuna",
                     "default": "",
                     "examples": [
                         "ARICA"
@@ -632,7 +632,7 @@
                     "$id": "#/properties/valores/properties/dl_dif_8b_soc_2019_2014",
                     "type": "string",
                     "title": "The dl_dif_8b_soc_2019_2014 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variacion del puntaje con año anterior (cifras), Historia y Ciencias Sociales",
                     "default": "",
                     "examples": [
                         "(-10 puntos)"
@@ -642,7 +642,7 @@
                     "$id": "#/properties/valores/properties/dl_rbd",
                     "type": "string",
                     "title": "The dl_rbd schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Codigo identificacion colegio",
                     "default": "",
                     "examples": [
                         "5"
@@ -652,7 +652,7 @@
                     "$id": "#/properties/valores/properties/dl_dif_8b_mat_2019_2017",
                     "type": "string",
                     "title": "The dl_dif_8b_mat_2019_2017 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variacion del puntaje con año anterior (cifras), Matemáticas",
                     "default": "",
                     "examples": [
                         "(-3 puntos)"
@@ -712,7 +712,7 @@
                     "$id": "#/properties/valores/properties/dl_dif_8b_len_2019_2017",
                     "type": "string",
                     "title": "The dl_dif_8b_len_2019_2017 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variacion del puntaje con año anterior (cifras), lenguaje",
                     "default": "",
                     "examples": [
                         "(4 puntos)"
@@ -742,7 +742,7 @@
                     "$id": "#/properties/valores/properties/dt_tdif_8b_hv_2019_2017",
                     "type": "string",
                     "title": "The dt_tdif_8b_hv_2019_2017 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variacion del puntaje con año anterior (cifras), habitos de vida",
                     "default": "",
                     "examples": [
                         "(-3 puntos)"
@@ -944,7 +944,7 @@
                                 "$id": "#/properties/campos/items/anyOf/0/properties/funcion",
                                 "type": "string",
                                 "title": "The funcion schema",
-                                "description": "An explanation about the purpose of this instance.",
+                                "description": "",
                                 "default": "",
                                 "examples": [
                                     ""
@@ -954,7 +954,7 @@
                                 "$id": "#/properties/campos/items/anyOf/0/properties/campo",
                                 "type": "string",
                                 "title": "The campo schema",
-                                "description": "An explanation about the purpose of this instance.",
+                                "description": "Nombre colegio",
                                 "default": "",
                                 "examples": [
                                     "dl_nombre"

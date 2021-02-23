@@ -1,0 +1,1056 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://www.simce.cl/ficha2019/resultados-anteriores.php",
+    "type": "object",
+    "title": "The root schema",
+    "description": "Esquema de Resultados Anteriores",
+    "default": {},
+    "examples": [
+        {
+            "valores": {
+                "IPA_8_BASICO_2015_RBD": "5",
+                "IPA_BASICA_4B_2018_RBD": "5",
+                "IRE_Directores_8B_IIM_2015_RBD": "5",
+                "IRE_MEDIA_2018_RBD": "5",
+                "IRE_Directores_BASICA_2018_RBD": "5",
+                "IRE_Directores_4_BASICO_2014_RBD": "5",
+                "OIC_IRE_2014_RBD": "5",
+                "IPA_3_MEDIO_2014_RBD": "",
+                "IRE_BASICA_2016_RBD": "5",
+                "IPA_2_BASICO_2015_RBD": "5",
+                "IPA_II_MEDIO_2016_RBD": "5",
+                "IRE_2_MEDIO_2014_RBD": "5",
+                "IRE_MEDIA_2016_RBD": "5",
+                "IRE_BASICA_2017_RBD": "5",
+                "IRE_MEDIA_2017_RBD": "5",
+                "IPA_II_MEDIO_2015_RBD": "5",
+                "IRE_Directores_3_MEDIO_2014_RBD": "",
+                "IRE_6_BASICA_ESC_2018_RBD": "5",
+                "IRE_8B_IIM_2015_RBD": "5",
+                "IRE_Directores_6B_ESCRITURA_2015_RBD": "5",
+                "IPA_4_BASICO_2015_RBD": "5",
+                "IPA_6_BASICO_ESCRITURA_2015_RBD": "5",
+                "IPA_6_BASICO_ESC_2016_RBD": "5",
+                "IRE_BASICA_2018_RBD": "5",
+                "IRE_Directores_6_BASICO_2014_RBD": "5",
+                "IRE_6B_ESC_2016_RBD": "5",
+                "IRE_Directores_MEDIA_2016_RBD": "5",
+                "IRE_Directores_6B_ESC_2016_RBD": "5",
+                "IPA_8_BASICO_2014_RBD": "5",
+                "IPA_4_BASICO_2016_RBD": "5",
+                "IPA_4_BASICO_2017_RBD": "5",
+                "IPA_2_MEDIO_2018_RBD": "5",
+                "dl_rbd": "5",
+                "IRE_Directores_MEDIA_2018_RBD": "5",
+                "IPA_BASICA_6B_2018_RBD": "5",
+                "IPA_6_BASICO_2016_RBD": "5",
+                "IRE_Directores_2_MEDIO_2014_RBD": "5",
+                "IRE_Directores_MEDIA_2017_RBD": "5",
+                "IPA_6_BASICA_ESC_2018_RBD": "5",
+                "IRE_6B_ESCRITURA_2015_RBD": "5",
+                "ESC_IRE_Directores_6_BASICO_2014_RBD": "5",
+                "IRE_8_BASICO_2014_RBD": "5",
+                "IRE_Directores_BASICA_2015_RBD": "5",
+                "idsos": "62000660",
+                "IRE_3_MEDIO_2014_RBD": "",
+                "IPA_8_BASICO_2017_RBD": "5",
+                "IPA_6_BASICO_2014_RBD": "",
+                "IPA_6_BASICO_2015_RBD": "5",
+                "IRE_Directores_BASICA_2016_RBD": "5",
+                "IREDIR_6_BASICA_ESC_2018_RBD": "5",
+                "IRE_Directores_8_BASICO_2014_RBD": "5",
+                "IRE_Directores_BASICA_2017_RBD": "5",
+                "IPA_2_MEDIO_2014_RBD": "5",
+                "IPA_II_MEDIO_2017_RBD": "5",
+                "IRE_Directores_2_BASICO_2014_RBD": "5",
+                "IRE_BASICA_2015_RBD": "5"
+            },
+            "campos": [
+                {
+                    "funcion": "",
+                    "campo": "dl_rbd"
+                },
+                {
+                    "funcion": "",
+                    "campo": "idsos"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_2_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_2_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_3_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_4_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_6_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "ESC_IRE_Directores_6_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_8_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "OIC_IRE_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_2_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_2_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_3_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_3_MEDIO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_8_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_8_BASICO_2014_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_BASICA_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_6B_ESCRITURA_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_8B_IIM_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_2_BASICO_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_4_BASICO_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICO_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICO_ESCRITURA_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_6B_ESCRITURA_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_8_BASICO_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_8B_IIM_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_BASICA_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_II_MEDIO_2015_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_6B_ESC_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_BASICA_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_MEDIA_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_6B_ESC_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_BASICA_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_MEDIA_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_II_MEDIO_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_4_BASICO_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICO_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICO_ESC_2016_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_BASICA_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_MEDIA_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_BASICA_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_MEDIA_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_II_MEDIO_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_4_BASICO_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_8_BASICO_2017_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IREDIR_6_BASICA_ESC_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_BASICA_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_Directores_MEDIA_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_6_BASICA_ESC_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_BASICA_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IRE_MEDIA_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_2_MEDIO_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_BASICA_4B_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_BASICA_6B_2018_RBD"
+                },
+                {
+                    "funcion": "",
+                    "campo": "IPA_6_BASICA_ESC_2018_RBD"
+                }
+            ]
+        }
+    ],
+    "required": [
+        "valores",
+        "campos"
+    ],
+    "properties": {
+        "valores": {
+            "$id": "#/properties/valores",
+            "type": "object",
+            "title": "The valores schema",
+            "description": "informacion recogida desde base donde id sea 5 y sostenedor 62000660 ",
+            "default": {},
+            "examples": [
+                {
+                    "IPA_8_BASICO_2015_RBD": "5",
+                    "IPA_BASICA_4B_2018_RBD": "5",
+                    "IRE_Directores_8B_IIM_2015_RBD": "5",
+                    "IRE_MEDIA_2018_RBD": "5",
+                    "IRE_Directores_BASICA_2018_RBD": "5",
+                    "IRE_Directores_4_BASICO_2014_RBD": "5",
+                    "OIC_IRE_2014_RBD": "5",
+                    "IPA_3_MEDIO_2014_RBD": "",
+                    "IRE_BASICA_2016_RBD": "5",
+                    "IPA_2_BASICO_2015_RBD": "5",
+                    "IPA_II_MEDIO_2016_RBD": "5",
+                    "IRE_2_MEDIO_2014_RBD": "5",
+                    "IRE_MEDIA_2016_RBD": "5",
+                    "IRE_BASICA_2017_RBD": "5",
+                    "IRE_MEDIA_2017_RBD": "5",
+                    "IPA_II_MEDIO_2015_RBD": "5",
+                    "IRE_Directores_3_MEDIO_2014_RBD": "",
+                    "IRE_6_BASICA_ESC_2018_RBD": "5",
+                    "IRE_8B_IIM_2015_RBD": "5",
+                    "IRE_Directores_6B_ESCRITURA_2015_RBD": "5",
+                    "IPA_4_BASICO_2015_RBD": "5",
+                    "IPA_6_BASICO_ESCRITURA_2015_RBD": "5",
+                    "IPA_6_BASICO_ESC_2016_RBD": "5",
+                    "IRE_BASICA_2018_RBD": "5",
+                    "IRE_Directores_6_BASICO_2014_RBD": "5",
+                    "IRE_6B_ESC_2016_RBD": "5",
+                    "IRE_Directores_MEDIA_2016_RBD": "5",
+                    "IRE_Directores_6B_ESC_2016_RBD": "5",
+                    "IPA_8_BASICO_2014_RBD": "5",
+                    "IPA_4_BASICO_2016_RBD": "5",
+                    "IPA_4_BASICO_2017_RBD": "5",
+                    "IPA_2_MEDIO_2018_RBD": "5",
+                    "dl_rbd": "5",
+                    "IRE_Directores_MEDIA_2018_RBD": "5",
+                    "IPA_BASICA_6B_2018_RBD": "5",
+                    "IPA_6_BASICO_2016_RBD": "5",
+                    "IRE_Directores_2_MEDIO_2014_RBD": "5",
+                    "IRE_Directores_MEDIA_2017_RBD": "5",
+                    "IPA_6_BASICA_ESC_2018_RBD": "5",
+                    "IRE_6B_ESCRITURA_2015_RBD": "5",
+                    "ESC_IRE_Directores_6_BASICO_2014_RBD": "5",
+                    "IRE_8_BASICO_2014_RBD": "5",
+                    "IRE_Directores_BASICA_2015_RBD": "5",
+                    "idsos": "62000660",
+                    "IRE_3_MEDIO_2014_RBD": "",
+                    "IPA_8_BASICO_2017_RBD": "5",
+                    "IPA_6_BASICO_2014_RBD": "",
+                    "IPA_6_BASICO_2015_RBD": "5",
+                    "IRE_Directores_BASICA_2016_RBD": "5",
+                    "IREDIR_6_BASICA_ESC_2018_RBD": "5",
+                    "IRE_Directores_8_BASICO_2014_RBD": "5",
+                    "IRE_Directores_BASICA_2017_RBD": "5",
+                    "IPA_2_MEDIO_2014_RBD": "5",
+                    "IPA_II_MEDIO_2017_RBD": "5",
+                    "IRE_Directores_2_BASICO_2014_RBD": "5",
+                    "IRE_BASICA_2015_RBD": "5"
+                }
+            ],
+            "required": [
+                "IPA_8_BASICO_2015_RBD",
+                "IPA_BASICA_4B_2018_RBD",
+                "IRE_Directores_8B_IIM_2015_RBD",
+                "IRE_MEDIA_2018_RBD",
+                "IRE_Directores_BASICA_2018_RBD",
+                "IRE_Directores_4_BASICO_2014_RBD",
+                "OIC_IRE_2014_RBD",
+                "IPA_3_MEDIO_2014_RBD",
+                "IRE_BASICA_2016_RBD",
+                "IPA_2_BASICO_2015_RBD",
+                "IPA_II_MEDIO_2016_RBD",
+                "IRE_2_MEDIO_2014_RBD",
+                "IRE_MEDIA_2016_RBD",
+                "IRE_BASICA_2017_RBD",
+                "IRE_MEDIA_2017_RBD",
+                "IPA_II_MEDIO_2015_RBD",
+                "IRE_Directores_3_MEDIO_2014_RBD",
+                "IRE_6_BASICA_ESC_2018_RBD",
+                "IRE_8B_IIM_2015_RBD",
+                "IRE_Directores_6B_ESCRITURA_2015_RBD",
+                "IPA_4_BASICO_2015_RBD",
+                "IPA_6_BASICO_ESCRITURA_2015_RBD",
+                "IPA_6_BASICO_ESC_2016_RBD",
+                "IRE_BASICA_2018_RBD",
+                "IRE_Directores_6_BASICO_2014_RBD",
+                "IRE_6B_ESC_2016_RBD",
+                "IRE_Directores_MEDIA_2016_RBD",
+                "IRE_Directores_6B_ESC_2016_RBD",
+                "IPA_8_BASICO_2014_RBD",
+                "IPA_4_BASICO_2016_RBD",
+                "IPA_4_BASICO_2017_RBD",
+                "IPA_2_MEDIO_2018_RBD",
+                "dl_rbd",
+                "IRE_Directores_MEDIA_2018_RBD",
+                "IPA_BASICA_6B_2018_RBD",
+                "IPA_6_BASICO_2016_RBD",
+                "IRE_Directores_2_MEDIO_2014_RBD",
+                "IRE_Directores_MEDIA_2017_RBD",
+                "IPA_6_BASICA_ESC_2018_RBD",
+                "IRE_6B_ESCRITURA_2015_RBD",
+                "ESC_IRE_Directores_6_BASICO_2014_RBD",
+                "IRE_8_BASICO_2014_RBD",
+                "IRE_Directores_BASICA_2015_RBD",
+                "idsos",
+                "IRE_3_MEDIO_2014_RBD",
+                "IPA_8_BASICO_2017_RBD",
+                "IPA_6_BASICO_2014_RBD",
+                "IPA_6_BASICO_2015_RBD",
+                "IRE_Directores_BASICA_2016_RBD",
+                "IREDIR_6_BASICA_ESC_2018_RBD",
+                "IRE_Directores_8_BASICO_2014_RBD",
+                "IRE_Directores_BASICA_2017_RBD",
+                "IPA_2_MEDIO_2014_RBD",
+                "IPA_II_MEDIO_2017_RBD",
+                "IRE_Directores_2_BASICO_2014_RBD",
+                "IRE_BASICA_2015_RBD"
+            ],
+            "properties": {
+                "IPA_8_BASICO_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_8_BASICO_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_8_BASICO_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 8° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_BASICA_4B_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_BASICA_4B_2018_RBD",
+                    "type": "string",
+                    "title": "The IPA_BASICA_4B_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 4° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_8B_IIM_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_8B_IIM_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_8B_IIM_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_MEDIA_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_MEDIA_2018_RBD",
+                    "type": "string",
+                    "title": "The IRE_MEDIA_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_BASICA_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_BASICA_2018_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_BASICA_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_4_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_4_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_4_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "OIC_IRE_2014_RBD": {
+                    "$id": "#/properties/valores/properties/OIC_IRE_2014_RBD",
+                    "type": "string",
+                    "title": "The OIC_IRE_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos Otros Indicadores de Calidad Educativa",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_3_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_3_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IPA_3_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        ""
+                    ]
+                },
+                "IRE_BASICA_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_BASICA_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_BASICA_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_2_BASICO_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_2_BASICO_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_2_BASICO_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_II_MEDIO_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_II_MEDIO_2016_RBD",
+                    "type": "string",
+                    "title": "The IPA_II_MEDIO_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_2_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_2_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_2_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 2° medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_MEDIA_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_MEDIA_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_MEDIA_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_BASICA_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_BASICA_2017_RBD",
+                    "type": "string",
+                    "title": "The IRE_BASICA_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_MEDIA_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_MEDIA_2017_RBD",
+                    "type": "string",
+                    "title": "The IRE_MEDIA_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_II_MEDIO_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_II_MEDIO_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_II_MEDIO_2015_RBD schema",
+                    "description": "eInforme de Resultados Educativos para Padres y Apoderados 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_3_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_3_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_3_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        ""
+                    ]
+                },
+                "IRE_6_BASICA_ESC_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_6_BASICA_ESC_2018_RBD",
+                    "type": "string",
+                    "title": "The IRE_6_BASICA_ESC_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 6° básico Escritura.",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_8B_IIM_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_8B_IIM_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_8B_IIM_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 8° básico y 2° medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_6B_ESCRITURA_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_6B_ESCRITURA_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_6B_ESCRITURA_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Escritura",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_4_BASICO_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_4_BASICO_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_4_BASICO_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 4° básico 2015",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_6_BASICO_ESCRITURA_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICO_ESCRITURA_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICO_ESCRITURA_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderadors Escritura 6° Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_6_BASICO_ESC_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICO_ESC_2016_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICO_ESC_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderadors Escritura 6° Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_BASICA_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_BASICA_2018_RBD",
+                    "type": "string",
+                    "title": "The IRE_BASICA_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes Educación básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_6_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_6_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_6_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_6B_ESC_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_6B_ESC_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_6B_ESC_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 6° básico Escritura",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_MEDIA_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_MEDIA_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_MEDIA_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_6B_ESC_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_6B_ESC_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_6B_ESC_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_8_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_8_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IPA_8_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados. 8° básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_4_BASICO_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_4_BASICO_2016_RBD",
+                    "type": "string",
+                    "title": "The IPA_4_BASICO_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 4° básico 2016",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_4_BASICO_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_4_BASICO_2017_RBD",
+                    "type": "string",
+                    "title": "The IPA_4_BASICO_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 8° básico 2017",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_2_MEDIO_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_2_MEDIO_2018_RBD",
+                    "type": "string",
+                    "title": "The IPA_2_MEDIO_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "dl_rbd": {
+                    "$id": "#/properties/valores/properties/dl_rbd",
+                    "type": "string",
+                    "title": "The dl_rbd schema",
+                    "description": "Informacion del colegio en base a su identificador",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_MEDIA_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_MEDIA_2018_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_MEDIA_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_BASICA_6B_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_BASICA_6B_2018_RBD",
+                    "type": "string",
+                    "title": "The IPA_BASICA_6B_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 6° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_6_BASICO_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICO_2016_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICO_2016_RBD schema",
+                    "description": "nforme de Resultados Educativos para Padres y Apoderados 6° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_2_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_2_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_2_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_MEDIA_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_MEDIA_2017_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_MEDIA_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_6_BASICA_ESC_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICA_ESC_2018_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICA_ESC_2018_RBD schema",
+                    "description": "nforme de Resultados Educativos para Padres y Apoderados 6° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_6B_ESCRITURA_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_6B_ESCRITURA_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_6B_ESCRITURA_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores 2° Medio Escritura",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "ESC_IRE_Directores_6_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/ESC_IRE_Directores_6_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The ESC_IRE_Directores_6_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores 6° Básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_8_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_8_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_8_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 8° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_BASICA_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_BASICA_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_BASICA_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "idsos": {
+                    "$id": "#/properties/valores/properties/idsos",
+                    "type": "string",
+                    "title": "The idsos schema",
+                    "description": "ID sostenedor",
+                    "default": "",
+                    "examples": [
+                        "62000660"
+                    ]
+                },
+                "IRE_3_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_3_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_3_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        ""
+                    ]
+                },
+                "IPA_8_BASICO_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_8_BASICO_2017_RBD",
+                    "type": "string",
+                    "title": "The IPA_8_BASICO_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 8° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_6_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 6° básico",
+                    "default": "",
+                    "examples": [
+                        ""
+                    ]
+                },
+                "IPA_6_BASICO_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_6_BASICO_2015_RBD",
+                    "type": "string",
+                    "title": "The IPA_6_BASICO_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 6° básico",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_BASICA_2016_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_BASICA_2016_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_BASICA_2016_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Media",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IREDIR_6_BASICA_ESC_2018_RBD": {
+                    "$id": "#/properties/valores/properties/IREDIR_6_BASICA_ESC_2018_RBD",
+                    "type": "string",
+                    "title": "The IREDIR_6_BASICA_ESC_2018_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_8_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_8_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_8_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_BASICA_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_BASICA_2017_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_BASICA_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Directores Educación Básica",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_2_MEDIO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_2_MEDIO_2014_RBD",
+                    "type": "string",
+                    "title": "The IPA_2_MEDIO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IPA_II_MEDIO_2017_RBD": {
+                    "$id": "#/properties/valores/properties/IPA_II_MEDIO_2017_RBD",
+                    "type": "string",
+                    "title": "The IPA_II_MEDIO_2017_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_Directores_2_BASICO_2014_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_Directores_2_BASICO_2014_RBD",
+                    "type": "string",
+                    "title": "The IRE_Directores_2_BASICO_2014_RBD schema",
+                    "description": "Informe de Resultados Educativos para Padres y Apoderados 2° Medio",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                },
+                "IRE_BASICA_2015_RBD": {
+                    "$id": "#/properties/valores/properties/IRE_BASICA_2015_RBD",
+                    "type": "string",
+                    "title": "The IRE_BASICA_2015_RBD schema",
+                    "description": "Informe de Resultados Educativos para Docentes 6° básico Escritura",
+                    "default": "",
+                    "examples": [
+                        "5"
+                    ]
+                }
+            },
+            "additionalProperties": true
+        },
+        "campos": {
+            "$id": "#/properties/campos",
+            "type": "array",
+            "title": "The campos schema",
+            "description": "Informacion del colegio buscado junto al sostenedor(a)",
+            "default": [],
+            "examples": [
+                [
+                    {
+                        "funcion": "",
+                        "campo": "dl_rbd"
+                    },
+                    {
+                        "funcion": "",
+                        "campo": "idsos"
+                    }
+                ]
+            ],
+            "additionalItems": true,
+            "items": {
+                "$id": "#/properties/campos/items",
+                "anyOf": [
+                    {
+                        "$id": "#/properties/campos/items/anyOf/0",
+                        "type": "object",
+                        "title": "The first anyOf schema",
+                        "description": "ID colegio.",
+                        "default": {},
+                        "examples": [
+                            {
+                                "funcion": "",
+                                "campo": "dl_rbd"
+                            }
+                        ],
+                        "required": [
+                            "funcion",
+                            "campo"
+                        ],
+                        "properties": {
+                            "funcion": {
+                                "$id": "#/properties/campos/items/anyOf/0/properties/funcion",
+                                "type": "string",
+                                "title": "The funcion schema",
+                                "description": "Propiedades de funcion",
+                                "default": "",
+                                "examples": [
+                                    ""
+                                ]
+                            },
+                            "campo": {
+                                "$id": "#/properties/campos/items/anyOf/0/properties/campo",
+                                "type": "string",
+                                "title": "The campo schema",
+                                "description": "ID colegio",
+                                "default": "",
+                                "examples": [
+                                    "dl_rbd"
+                                ]
+                            }
+                        },
+                        "additionalProperties": true
+                    }
+                ]
+            }
+        }
+    },
+    "additionalProperties": true
+}
