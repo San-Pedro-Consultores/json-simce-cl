@@ -1,0 +1,711 @@
+{
+    "valores": {
+        "2016_SIMCE_2M_SIG_NAT_2016_2014": "-1",
+        "2016_SIMCE_6B_SIG_MAT_2016_2015": "m\u00e1s bajo",
+        "2016_SIMCE_6B_ESC_GRUPO_TEXTO_2": "Entre 43,01 y 66% de los estudiantes se encuentran en condici\u00f3n de vulnerabilidad social.",
+        "2016_IDPS_2M_difgru_2m_cc_2016": "-3",
+        "2016_SIMCE_4B_GRUPO": "Medio",
+        "2016_SIMCE_6B_GRUPO": "Medio",
+        "2016_SIMCE_2M_SIG_MAT_2016_2015": "0",
+        "2016_SIMCE_6B_ESC_GRUPO_TEXTO_1": "La mayor\u00eda de los apoderados ha declarado tener entre 11 y 12 a\u00f1os de escolaridad y un ingreso del hogar que var\u00eda entre $390.001 y $630.000",
+        "2016_SIMCE_6B_ESC_SIG_ESC_2016_2015": "similar",
+        "2016_IDPS_2M_dif_2m_pf_20152016": "0",
+        "2016_SIMCE_6B_ESC_DIFGRU_ESC_2016_PUNTO": "(4 puntos)",
+        "dep": "Municipalizado",
+        "2016_IDPS_4B_sgru_4b_pf_2016": "-1",
+        "2016_SIMCE_2M_DIF_LEN_2016_2015": "-22",
+        "2016_IDPS_2M_cm_2m_pf_2016": "74",
+        "2016_SIMCE_4B_SIG_LEN_2016_2015": "m\u00e1s bajo",
+        "2016_IDPS_4B_cm_4b_am_2016": "75",
+        "2016_IDPS_6B_cm_6b_hv_2016": "68",
+        "2016_IDPS_6B_svar_6b_cc_20152016": "0",
+        "2016_SIMCE_2M_GRUPO_TEXTO_2": "Entre 34,01 y 52% de los estudiantes se encuentran en condici\u00f3n de vulnerabilidad social.",
+        "2016_SIMCE_2M_GRUPO_TEXTO_1": "La mayor\u00eda de los apoderados han declarado tener entre 12 y 13 a\u00f1os de escolaridad y un ingreso del hogar que var\u00eda entre $460.001 y $750.000.",
+        "2016_SIMCE_4B_PROM_LEN_2016": "274",
+        "2016_SIMCE_4B_SIGGRU_MAT_2016": "similar",
+        "2016_SIMCE_2M_GRUPO": "Medio",
+        "georef": "1",
+        "2016_SIMCE_2M_PROM_LEN_2016": "239",
+        "2016_IDPS_2M_difgru_2m_hv_2016": "-11",
+        "2016_SIMCE_6B_GRUPO_TEXTO_1": "La mayor\u00eda de los apoderados han declarado tener entre 11 y 12 a\u00f1os de escolaridad y un ingreso del hogar que var\u00eda entre $390.001 y $630.000",
+        "2016_IDPS_2M_svar_2m_pf_20152016": "0",
+        "2016_SIMCE_6B_GRUPO_TEXTO_2": "Entre 43,01 y 66% de los estudiantes se encuentran en condici\u00f3n de vulnerabilidad social.",
+        "2016_SIMCE_2M_PROM_MAT_2016": "276",
+        "2016_IDPS_4B_svar_4b_pf_20152016": "-1",
+        "2016_IDPS_4B_sgru_4b_am_2016": "0",
+        "2016_SIMCE_6B_DIFGRU_SOC_2016_PUNTO": "(19 puntos)",
+        "2016_SIMCE_6B_DIF_SOC_2016_2015_PUNTO": "(-15 puntos)",
+        "rbd": "5",
+        "2016_SIMCE_6B_ESC_SIGGRU_ESC_2016": "m\u00e1s alto",
+        "2016_IDPS_2M_dif_2m_am_20152016": "3",
+        "2016_SIMCE_6B_DIF_LEN_2016_2015_PUNTO": "(-14 puntos)",
+        "tiene_4b_2016": "SI",
+        "2016_IDPS_6B_dif_6b_hv_20152016_punto": "(3 puntos)",
+        "2016_IDPS_4B_svar_4b_cc_20152016": "-1",
+        "2016_SIMCE_2M_SIGGRU_NAT_2016": "0",
+        "2016_SIMCE_6B_ESC_GRUPO": "Medio",
+        "2016_SIMCE_2M_SIGGRU_MAT_2016": "-1",
+        "2016_SIMCE_6B_DIF_MAT_2016_2015_PUNTO": "(-25 puntos)",
+        "2016_SIMCE_6B_ESC_DIF_ESC_2016_2015_PUNTO": "(7 puntos)",
+        "2016_IDPS_6B_cm_6b_am_2016": "75",
+        "2016_IDPS_6B_cm_6b_cc_2016": "73",
+        "2016_IDPS_2M_difgru_2m_pf_2016": "-4",
+        "cod_region": "15000",
+        "2016_SIMCE_2M_DIFGRU_NAT_2016": "-3",
+        "2016_IDPS_6B_sgru_6b_pf_2016": "0",
+        "2016_IDPS_6B_dif_6b_am_20152016_punto": "(-1 punto)",
+        "2016_IDPS_6B_sgru_6b_am_2016": "0",
+        "2016_IDPS_6B_cm_6b_pf_2016": "77",
+        "2016_IDPS_4B_dif_4b_cc_20152016_punto": "(-7 puntos)",
+        "2016_SIMCE_4B_DIFGRU_LEN_2016_PUNTO": "(6 puntos)",
+        "2016_IDPS_2M_cm_2m_am_2016": "76",
+        "2016_IDPS_4B_svar_4b_am_20152016": "0",
+        "2016_IDPS_2M_cm_2m_hv_2016": "59",
+        "2016_IDPS_6B_svar_6b_pf_20152016": "0",
+        "2016_SIMCE_2M_SIG_LEN_2016_2015": "-1",
+        "2016_IDPS_6B_dif_6b_pf_20152016_punto": "(1 punto)",
+        "2016_IDPS_4B_dif_4b_am_20152016_punto": "(-3 puntos)",
+        "2016_IDPS_2M_cm_2m_cc_2016": "74",
+        "2016_SIMCE_2M_SIGGRU_LEN_2016": "-1",
+        "2016_IDPS_2M_svar_2m_am_20152016": "0",
+        "2016_SIMCE_4B_SIGGRU_LEN_2016": "similar",
+        "2016_SIMCE_4B_SIG_MAT_2016_2015": "similar",
+        "2016_SIMCE_6B_SIG_SOC_2016_2015": "similar",
+        "2016_SIMCE_4B_DIF_MAT_2016_2015_PUNTO": "(-7 puntos)",
+        "2016_IDPS_6B_difgru_6b_pf_2016_punto": "(0 puntos)",
+        "2016_IDPS_4B_cm_4b_cc_2016": "74",
+        "2016_SIMCE_2M_DIF_MAT_2016_2015": "-1",
+        "2016_IDPS_6B_dif_6b_cc_20152016_punto": "(-1 punto)",
+        "descarga_ppt_media": "SI",
+        "2016_IDPS_2M_svar_2m_hv_20152016": "-1",
+        "2016_IDPS_6B_sgru_6b_hv_2016": "0",
+        "2016_SIMCE_6B_SIGGRU_SOC_2016": "m\u00e1s alto",
+        "2016_IDPS_2M_difgru_2m_am_2016": "2",
+        "2016_IDPS_2M_dif_2m_hv_20152016": "-6",
+        "descarga_ppt_basica": "SI",
+        "2016_IDPS_4B_difgru_4b_cc_2016_punto": "(-2 puntos)",
+        "point_y": "-1.847.682",
+        "2016_IDPS_4B_dif_4b_pf_20152016_punto": "(-10 puntos)",
+        "point_x": "-7.031.338",
+        "2016_IDPS_6B_sgru_6b_cc_2016": "0",
+        "2016_IDPS_6B_difgru_6b_cc_2016_punto": "(-3 puntos)",
+        "2016_SIMCE_4B_DIFGRU_MAT_2016_PUNTO": "(-7 puntos)",
+        "2016_IDPS_4B_dif_4b_hv_20152016_punto": "(-9 puntos)",
+        "2016_SIMCE_6B_SIG_LEN_2016_2015": "similar",
+        "2016_IDPS_2M_csiggru_2m_hv_2016": "m\u00e1s bajo",
+        "area": "Urbano",
+        "2016_IDPS_2M_csiggru_2m_cc_2016": "similar",
+        "2017_INFORME_VISITA_2017": "NO",
+        "2016_IDPS_4B_sgru_4b_cc_2016": "0",
+        "2016_IDPS_4B_svar_4b_hv_20152016": "-1",
+        "2016_IDPS_6B_difgru_6b_hv_2016_punto": "(-2 puntos)",
+        "2016_SIMCE_6B_DIFGRU_LEN_2016_PUNTO": "(16 puntos)",
+        "2016_IDPS_2M_svar_2m_cc_20152016": "0",
+        "2016_IDPS_6B_svar_6b_am_20152016": "0",
+        "2016_SIMCE_6B_PROM_LEN_2016": "266",
+        "2016_SIMCE_6B_SIG_SOC_2016_2015_2": "similar",
+        "region": "Regi\u00f3n de Arica y Parinacota",
+        "2016_SIMCE_6B_ESC_PROM_ESC_HOM_2016_6B": "55",
+        "2016_IDPS_4B_difgru_4b_hv_2016_punto": "(-6 puntos)",
+        "2016_SIMCE_6B_ESC_PROM_ESC_2016": "56",
+        "2016_SIMCE_6B_PROM_SOC_2016_2": "268",
+        "2016_SIMCE_4B_DIF_LEN_2016_2015_PUNTO": "(-22 puntos)",
+        "2016_SIMCE_2M_DIFGRU_LEN_2016": "-20",
+        "2016_IDPS_4B_difgru_4b_am_2016_punto": "(1 punto)",
+        "2016_IDPS_4B_sgru_4b_hv_2016": "-1",
+        "nombre": "JOVINA NARANJO FERNANDEZ",
+        "2016_SIMCE_4B_GRUPO_TEXTO_1": "La mayor\u00eda de los apoderados han declarado tener entre 12 y 13 a\u00f1os de escolaridad en el caso de la madre, y entre 11 y 12 a\u00f1os de escolaridad en el caso del padre y un ingreso del hogar que var\u00eda entre $410.001 y $690.000.",
+        "2016_IDPS_2M_dif_2m_cc_20152016": "0",
+        "2016_SIMCE_4B_GRUPO_TEXTO_2": "Entre 43,01 y 64% de los estudiantes se encuentran en condici\u00f3n de vulnerabilidad social.",
+        "2016_IDPS_2M_csiggru_2m_am_2016": "similar",
+        "2016_SIMCE_6B_DIFGRU_MAT_2016_PUNTO": "(6 puntos)",
+        "2016_IDPS_2M_csiggru_2m_pf_2016": "m\u00e1s bajo",
+        "2016_SIMCE_2M_DIFGRU_MAT_2016": "-7",
+        "2016_SIMCE_6B_PROM_MAT_2016": "259",
+        "2016_SIMCE_6B_ESC_PROM_ESC_MUJ_2016_6B": "57",
+        "2016_SIMCE_6B_PROM_SOC_2015": "283",
+        "2016_IDPS_4B_cm_4b_pf_2016": "72",
+        "2016_SIMCE_6B_SIGGRU_LEN_2016": "m\u00e1s alto",
+        "2016_SIMCE_6B_PROM_SOC_2016": "268",
+        "tiene_6b_esc_2016": "SI",
+        "2016_IDPS_6B_difgru_6b_am_2016_punto": "(1 punto)",
+        "tiene_historia": "SI",
+        "2016_IDPS_6B_svar_6b_hv_20152016": "0",
+        "2016_SIMCE_2M_PROM_NAT_2016": "248",
+        "tiene_6b_2016": "SI",
+        "2016_IDPS_4B_cm_4b_hv_2016": "65",
+        "tiene_2m_2016": "SI",
+        "2016_SIMCE_6B_SIGGRU_MAT_2016": "similar",
+        "2016_SIMCE_6B_DIF_SOC_2016_2015_PUNTO2": "(-15 puntos)",
+        "comuna": "Arica",
+        "2016_SIMCE_4B_PROM_MAT_2016": "257",
+        "2016_IDPS_4B_difgru_4b_pf_2016_punto": "(-6 puntos)",
+        "2016_SIMCE_2M_DIF_NAT_2016_2014": "-21"
+    },
+    "campos": [
+        {
+            "funcion": "",
+            "campo": "rbd"
+        },
+        {
+            "funcion": "",
+            "campo": "nombre"
+        },
+        {
+            "funcion": "",
+            "campo": "dep"
+        },
+        {
+            "funcion": "",
+            "campo": "area"
+        },
+        {
+            "funcion": "",
+            "campo": "comuna"
+        },
+        {
+            "funcion": "",
+            "campo": "region"
+        },
+        {
+            "funcion": "",
+            "campo": "cod_region"
+        },
+        {
+            "funcion": "",
+            "campo": "georef"
+        },
+        {
+            "funcion": "",
+            "campo": "point_x"
+        },
+        {
+            "funcion": "",
+            "campo": "point_y"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_historia"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_4b_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_6b_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_2m_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "tiene_6b_esc_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "descarga_ppt_basica"
+        },
+        {
+            "funcion": "",
+            "campo": "descarga_ppt_media"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_GRUPO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_GRUPO_TEXTO_1"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_GRUPO_TEXTO_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_PROM_LEN_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_SIG_LEN_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_DIF_LEN_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_SIGGRU_LEN_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_DIFGRU_LEN_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_PROM_MAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_SIG_MAT_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_DIF_MAT_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_SIGGRU_MAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_4B_DIFGRU_MAT_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_cm_4b_am_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_dif_4b_am_20152016_punto",
+            "campo": "2016_IDPS_4B_svar_4b_am_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_dif_4b_am_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_difgru_4b_am_2016_punto",
+            "campo": "2016_IDPS_4B_sgru_4b_am_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_difgru_4b_am_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_cm_4b_cc_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_dif_4b_cc_20152016_punto",
+            "campo": "2016_IDPS_4B_svar_4b_cc_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_dif_4b_cc_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_difgru_4b_cc_2016_punto",
+            "campo": "2016_IDPS_4B_sgru_4b_cc_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_difgru_4b_cc_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_cm_4b_pf_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_dif_4b_pf_20152016_punto",
+            "campo": "2016_IDPS_4B_svar_4b_pf_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_dif_4b_pf_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_difgru_4b_pf_2016_punto",
+            "campo": "2016_IDPS_4B_sgru_4b_pf_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_difgru_4b_pf_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_cm_4b_hv_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_dif_4b_hv_20152016_punto",
+            "campo": "2016_IDPS_4B_svar_4b_hv_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_dif_4b_hv_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_4B_difgru_4b_hv_2016_punto",
+            "campo": "2016_IDPS_4B_sgru_4b_hv_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_4B_difgru_4b_hv_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_GRUPO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_GRUPO_TEXTO_1"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_GRUPO_TEXTO_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_PROM_LEN_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIG_LEN_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIF_LEN_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIGGRU_LEN_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIFGRU_LEN_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_PROM_MAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIG_MAT_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIF_MAT_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIGGRU_MAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIFGRU_MAT_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_PROM_SOC_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIG_SOC_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIF_SOC_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIGGRU_SOC_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIFGRU_SOC_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_PROM_SOC_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_PROM_SOC_2016_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_SIG_SOC_2016_2015_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_DIF_SOC_2016_2015_PUNTO2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_cm_6b_am_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_dif_6b_am_20152016_punto",
+            "campo": "2016_IDPS_6B_svar_6b_am_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_dif_6b_am_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_difgru_6b_am_2016_punto",
+            "campo": "2016_IDPS_6B_sgru_6b_am_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_difgru_6b_am_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_cm_6b_cc_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_dif_6b_cc_20152016_punto",
+            "campo": "2016_IDPS_6B_svar_6b_cc_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_dif_6b_cc_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_difgru_6b_cc_2016_punto",
+            "campo": "2016_IDPS_6B_sgru_6b_cc_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_difgru_6b_cc_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_cm_6b_pf_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_dif_6b_pf_20152016_punto",
+            "campo": "2016_IDPS_6B_svar_6b_pf_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_dif_6b_pf_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_difgru_6b_pf_2016_punto",
+            "campo": "2016_IDPS_6B_sgru_6b_pf_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_difgru_6b_pf_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_cm_6b_hv_2016"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_dif_6b_hv_20152016_punto",
+            "campo": "2016_IDPS_6B_svar_6b_hv_20152016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_dif_6b_hv_20152016_punto"
+        },
+        {
+            "funcion": "significancia_basica,2016_IDPS_6B_difgru_6b_hv_2016_punto",
+            "campo": "2016_IDPS_6B_sgru_6b_hv_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_6B_difgru_6b_hv_2016_punto"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_GRUPO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_GRUPO_TEXTO_1"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_GRUPO_TEXTO_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_PROM_LEN_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIF_LEN_2016_2015",
+            "campo": "2016_SIMCE_2M_SIG_LEN_2016_2015"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIF_LEN_2016_2015"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIFGRU_LEN_2016",
+            "campo": "2016_SIMCE_2M_SIGGRU_LEN_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIFGRU_LEN_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_PROM_MAT_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIF_MAT_2016_2015",
+            "campo": "2016_SIMCE_2M_SIG_MAT_2016_2015"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIF_MAT_2016_2015"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIFGRU_MAT_2016",
+            "campo": "2016_SIMCE_2M_SIGGRU_MAT_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIFGRU_MAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_2M_PROM_NAT_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIF_NAT_2016_2014",
+            "campo": "2016_SIMCE_2M_SIG_NAT_2016_2014"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIF_NAT_2016_2014"
+        },
+        {
+            "funcion": "significancia_media,2016_SIMCE_2M_DIFGRU_NAT_2016",
+            "campo": "2016_SIMCE_2M_SIGGRU_NAT_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_SIMCE_2M_DIFGRU_NAT_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_2M_cm_2m_am_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_dif_2m_am_20152016",
+            "campo": "2016_IDPS_2M_svar_2m_am_20152016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_dif_2m_am_20152016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_difgru_2m_am_2016",
+            "campo": "2016_IDPS_2M_csiggru_2m_am_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_difgru_2m_am_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_2M_cm_2m_cc_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_dif_2m_cc_20152016",
+            "campo": "2016_IDPS_2M_svar_2m_cc_20152016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_dif_2m_cc_20152016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_difgru_2m_cc_2016",
+            "campo": "2016_IDPS_2M_csiggru_2m_cc_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_difgru_2m_cc_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_2M_cm_2m_pf_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_dif_2m_pf_20152016",
+            "campo": "2016_IDPS_2M_svar_2m_pf_20152016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_dif_2m_pf_20152016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_difgru_2m_pf_2016",
+            "campo": "2016_IDPS_2M_csiggru_2m_pf_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_difgru_2m_pf_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_IDPS_2M_cm_2m_hv_2016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_dif_2m_hv_20152016",
+            "campo": "2016_IDPS_2M_svar_2m_hv_20152016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_dif_2m_hv_20152016"
+        },
+        {
+            "funcion": "significancia_media,2016_IDPS_2M_difgru_2m_hv_2016",
+            "campo": "2016_IDPS_2M_csiggru_2m_hv_2016"
+        },
+        {
+            "funcion": "puntos",
+            "campo": "2016_IDPS_2M_difgru_2m_hv_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_GRUPO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_GRUPO_TEXTO_1"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_GRUPO_TEXTO_2"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_PROM_ESC_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_SIG_ESC_2016_2015"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_DIF_ESC_2016_2015_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_SIGGRU_ESC_2016"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_DIFGRU_ESC_2016_PUNTO"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_PROM_ESC_MUJ_2016_6B"
+        },
+        {
+            "funcion": "",
+            "campo": "2016_SIMCE_6B_ESC_PROM_ESC_HOM_2016_6B"
+        },
+        {
+            "funcion": "",
+            "campo": "2017_INFORME_VISITA_2017"
+        }
+    ]
+}

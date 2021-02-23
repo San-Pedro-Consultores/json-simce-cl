@@ -1,0 +1,286 @@
+{
+    "valores": {
+        "IPA_8_BASICO_2015_RBD": "5",
+        "IPA_BASICA_4B_2018_RBD": "5",
+        "IRE_Directores_8B_IIM_2015_RBD": "5",
+        "IRE_MEDIA_2018_RBD": "5",
+        "IRE_Directores_BASICA_2018_RBD": "5",
+        "IRE_Directores_4_BASICO_2014_RBD": "5",
+        "OIC_IRE_2014_RBD": "5",
+        "IPA_3_MEDIO_2014_RBD": "",
+        "IRE_BASICA_2016_RBD": "5",
+        "IPA_2_BASICO_2015_RBD": "5",
+        "IPA_II_MEDIO_2016_RBD": "5",
+        "IRE_2_MEDIO_2014_RBD": "5",
+        "IRE_MEDIA_2016_RBD": "5",
+        "IRE_BASICA_2017_RBD": "5",
+        "IRE_MEDIA_2017_RBD": "5",
+        "IPA_II_MEDIO_2015_RBD": "5",
+        "IRE_Directores_3_MEDIO_2014_RBD": "",
+        "IRE_6_BASICA_ESC_2018_RBD": "5",
+        "IRE_8B_IIM_2015_RBD": "5",
+        "IRE_Directores_6B_ESCRITURA_2015_RBD": "5",
+        "IPA_4_BASICO_2015_RBD": "5",
+        "IPA_6_BASICO_ESCRITURA_2015_RBD": "5",
+        "IPA_6_BASICO_ESC_2016_RBD": "5",
+        "IRE_BASICA_2018_RBD": "5",
+        "IRE_Directores_6_BASICO_2014_RBD": "5",
+        "IRE_6B_ESC_2016_RBD": "5",
+        "IRE_Directores_MEDIA_2016_RBD": "5",
+        "IRE_Directores_6B_ESC_2016_RBD": "5",
+        "IPA_8_BASICO_2014_RBD": "5",
+        "IPA_4_BASICO_2016_RBD": "5",
+        "IPA_4_BASICO_2017_RBD": "5",
+        "IPA_2_MEDIO_2018_RBD": "5",
+        "dl_rbd": "5",
+        "IRE_Directores_MEDIA_2018_RBD": "5",
+        "IPA_BASICA_6B_2018_RBD": "5",
+        "IPA_6_BASICO_2016_RBD": "5",
+        "IRE_Directores_2_MEDIO_2014_RBD": "5",
+        "IRE_Directores_MEDIA_2017_RBD": "5",
+        "IPA_6_BASICA_ESC_2018_RBD": "5",
+        "IRE_6B_ESCRITURA_2015_RBD": "5",
+        "ESC_IRE_Directores_6_BASICO_2014_RBD": "5",
+        "IRE_8_BASICO_2014_RBD": "5",
+        "IRE_Directores_BASICA_2015_RBD": "5",
+        "idsos": "62000660",
+        "IRE_3_MEDIO_2014_RBD": "",
+        "IPA_8_BASICO_2017_RBD": "5",
+        "IPA_6_BASICO_2014_RBD": "",
+        "IPA_6_BASICO_2015_RBD": "5",
+        "IRE_Directores_BASICA_2016_RBD": "5",
+        "IREDIR_6_BASICA_ESC_2018_RBD": "5",
+        "IRE_Directores_8_BASICO_2014_RBD": "5",
+        "IRE_Directores_BASICA_2017_RBD": "5",
+        "IPA_2_MEDIO_2014_RBD": "5",
+        "IPA_II_MEDIO_2017_RBD": "5",
+        "IRE_Directores_2_BASICO_2014_RBD": "5",
+        "IRE_BASICA_2015_RBD": "5"
+    },
+    "campos": [
+        {
+            "funcion": "",
+            "campo": "dl_rbd"
+        },
+        {
+            "funcion": "",
+            "campo": "idsos"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_2_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_2_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_3_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_4_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_6_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "ESC_IRE_Directores_6_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_8_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "OIC_IRE_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_2_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_2_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_3_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_3_MEDIO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_8_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_8_BASICO_2014_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_BASICA_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_6B_ESCRITURA_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_8B_IIM_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_2_BASICO_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_4_BASICO_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICO_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICO_ESCRITURA_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_6B_ESCRITURA_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_8_BASICO_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_8B_IIM_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_BASICA_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_II_MEDIO_2015_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_6B_ESC_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_BASICA_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_MEDIA_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_6B_ESC_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_BASICA_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_MEDIA_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_II_MEDIO_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_4_BASICO_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICO_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICO_ESC_2016_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_BASICA_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_MEDIA_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_BASICA_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_MEDIA_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_II_MEDIO_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_4_BASICO_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_8_BASICO_2017_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IREDIR_6_BASICA_ESC_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_BASICA_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_Directores_MEDIA_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_6_BASICA_ESC_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_BASICA_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IRE_MEDIA_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_2_MEDIO_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_BASICA_4B_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_BASICA_6B_2018_RBD"
+        },
+        {
+            "funcion": "",
+            "campo": "IPA_6_BASICA_ESC_2018_RBD"
+        }
+    ]
+}
