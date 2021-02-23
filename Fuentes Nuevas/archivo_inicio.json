@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "http://example.com/example.json",
+    "$id": "https://since-cl.herokuapp.com/",
     "type": "object",
-    "title": "The root schema",
+    "title": "Pagina Inicio Agencia / sostenedor",
     "description": "The root schema comprises the entire JSON document.",
     "default": {},
     "examples": [
@@ -13,7 +13,7 @@
                 "tiene_informe_visita_2019_t": "NO",
                 "tiene_informe_visita_2019_im": "NO",
                 "tiene_informe_visita_2019_i": "NO",
-                "dl_rbd": "2267",
+                "dl_rbd": "5",
                 "tiene_informe_visita_2020": "NO"
             },
             "campos": [
@@ -57,7 +57,7 @@
             "$id": "#/properties/valores",
             "type": "object",
             "title": "The valores schema",
-            "description": "An explanation about the purpose of this instance.",
+            "description": "Se ingresa que no tiene informes de años anteriores, para que no aparezcan en Inicio.",
             "default": {},
             "examples": [
                 {
@@ -66,7 +66,7 @@
                     "tiene_informe_visita_2019_t": "NO",
                     "tiene_informe_visita_2019_im": "NO",
                     "tiene_informe_visita_2019_i": "NO",
-                    "dl_rbd": "2267",
+                    "dl_rbd": "5",
                     "tiene_informe_visita_2020": "NO"
                 }
             ],
@@ -84,7 +84,7 @@
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2017",
                     "type": "string",
                     "title": "The tiene_informe_visita_2017 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -94,7 +94,7 @@
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2018",
                     "type": "string",
                     "title": "The tiene_informe_visita_2018 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -104,7 +104,7 @@
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_t",
                     "type": "string",
                     "title": "The tiene_informe_visita_2019_t schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -114,7 +114,7 @@
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_im",
                     "type": "string",
                     "title": "The tiene_informe_visita_2019_im schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -124,7 +124,7 @@
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_i",
                     "type": "string",
                     "title": "The tiene_informe_visita_2019_i schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -134,17 +134,17 @@
                     "$id": "#/properties/valores/properties/dl_rbd",
                     "type": "string",
                     "title": "The dl_rbd schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable que recibe el ID del colegio buscado",
                     "default": "",
                     "examples": [
-                        "2267"
+                        "5"
                     ]
                 },
                 "tiene_informe_visita_2020": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2020",
                     "type": "string",
                     "title": "The tiene_informe_visita_2020 schema",
-                    "description": "An explanation about the purpose of this instance.",
+                    "description": "Variable consulta si tiene informes del año requerido",
                     "default": "",
                     "examples": [
                         "NO"
@@ -156,8 +156,8 @@
         "campos": {
             "$id": "#/properties/campos",
             "type": "array",
-            "title": "The campos schema",
-            "description": "An explanation about the purpose of this instance.",
+            "title": "Esquema de Campos",
+            "description": "Se muestra puntaje del informe según el informe de visita y el ID del colegio buscado.",
             "default": [],
             "examples": [
                 [
@@ -179,7 +179,7 @@
                         "$id": "#/properties/campos/items/anyOf/0",
                         "type": "object",
                         "title": "The first anyOf schema",
-                        "description": "An explanation about the purpose of this instance.",
+                        "description": "Función para recoger el ID del colegio o escuela",
                         "default": {},
                         "examples": [
                             {
@@ -196,7 +196,7 @@
                                 "$id": "#/properties/campos/items/anyOf/0/properties/funcion",
                                 "type": "string",
                                 "title": "The funcion schema",
-                                "description": "An explanation about the purpose of this instance.",
+                                "description": "Función que recoge los informes anuales, siempre y cuando se puedan mostrar",
                                 "default": "",
                                 "examples": [
                                     ""
@@ -206,7 +206,7 @@
                                 "$id": "#/properties/campos/items/anyOf/0/properties/campo",
                                 "type": "string",
                                 "title": "The campo schema",
-                                "description": "An explanation about the purpose of this instance.",
+                                "description": "Muestra los informes, siempre y cuando los informes puedan llamarse",
                                 "default": "",
                                 "examples": [
                                     "dl_rbd"
