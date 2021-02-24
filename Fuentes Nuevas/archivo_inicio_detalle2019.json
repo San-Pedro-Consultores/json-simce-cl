@@ -3,7 +3,7 @@
     "$id": "https://www.simce.cl/ficha2019/",
     "type": "object",
     "title": "Detalle Puntaje 2019 Inicio",
-    "description": "The root schema comprises the entire JSON document.",
+    "description": "Archivo JSON",
     "default": {},
     "examples": [
         {
@@ -276,7 +276,7 @@
         "valores": {
             "$id": "#/properties/valores",
             "type": "object",
-            "title": "The valores schema",
+            "title": "valores",
             "description": "Detalle de los valores recogidos de la escuela elegida, en este caso la Escuela Jovina Naranjo Gonzalez de Arica (5)",
             "default": {},
             "examples": [
@@ -391,7 +391,7 @@
                 "dl_dvrbd": {
                     "$id": "#/properties/valores/properties/dl_dvrbd",
                     "type": "string",
-                    "title": "The dl_dvrbd schema",
+                    "title": "dl_dvrbd",
                     "description": "Código RBD (5-1)",
                     "default": "",
                     "examples": [
@@ -401,7 +401,7 @@
                 "dt_tcdm_2019": {
                     "$id": "#/properties/valores/properties/dt_tcdm_2019",
                     "type": "string",
-                    "title": "The dt_tcdm_2019 schema",
+                    "title": "dt_tcdm_2019",
                     "description": "Campo MEdia",
                     "default": "",
                     "examples": [
@@ -411,7 +411,7 @@
                 "dt_tdifgru_8b_hv_2019": {
                     "$id": "#/properties/valores/properties/dt_tdifgru_8b_hv_2019",
                     "type": "string",
-                    "title": "The dt_tdifgru_8b_hv_2019 schema",
+                    "title": "dt_tdifgru_8b_hv_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), habitos de vida",
                     "default": "",
                     "examples": [
@@ -421,7 +421,7 @@
                 "dl_tsigdif_8b_mat_2019_2017": {
                     "$id": "#/properties/valores/properties/dl_tsigdif_8b_mat_2019_2017",
                     "type": "string",
-                    "title": "The dl_tsigdif_8b_mat_2019_2017 schema",
+                    "title": "dl_tsigdif_8b_mat_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Matemáticas)",
                     "default": "",
                     "examples": [
@@ -431,7 +431,7 @@
                 "dl_tsiggru_8b_soc_2019": {
                     "$id": "#/properties/valores/properties/dl_tsiggru_8b_soc_2019",
                     "type": "string",
-                    "title": "The dl_tsiggru_8b_soc_2019 schema",
+                    "title": "dl_tsiggru_8b_soc_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) (Historia, Geografía y Ciencias Sociales)",
                     "default": "",
                     "examples": [
@@ -441,7 +441,7 @@
                 "dt_tdif_8b_pf_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tdif_8b_pf_2019_2017",
                     "type": "string",
-                    "title": "The dt_tdif_8b_pf_2019_2017 schema",
+                    "title": "dt_tdif_8b_pf_2019_2017",
                     "description": "Variacion del puntaje con año anterior",
                     "default": "",
                     "examples": [
@@ -451,7 +451,7 @@
                 "dl_tsigdif_8b_len_2019_2017": {
                     "$id": "#/properties/valores/properties/dl_tsigdif_8b_len_2019_2017",
                     "type": "string",
-                    "title": "The dl_tsigdif_8b_len_2019_2017 schema",
+                    "title": "dl_tsigdif_8b_len_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Lenguaje)",
                     "default": "",
                     "examples": [
@@ -461,7 +461,7 @@
                 "dt_tcdb_2019": {
                     "$id": "#/properties/valores/properties/dt_tcdb_2019",
                     "type": "string",
-                    "title": "The dt_tcdb_2019 schema",
+                    "title": "dt_tcdb_2019",
                     "description": "Campo educación básica",
                     "default": "",
                     "examples": [
@@ -471,7 +471,7 @@
                 "dt_tsigdif2_8b_pf_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tsigdif2_8b_pf_2019_2017",
                     "type": "string",
-                    "title": "The dt_tsigdif2_8b_pf_2019_2017 schema",
+                    "title": "dt_tsigdif2_8b_pf_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Participación y formación) ",
                     "default": "",
                     "examples": [
@@ -481,7 +481,7 @@
                 "dt_tsigdif2_8b_cc_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tsigdif2_8b_cc_2019_2017",
                     "type": "string",
-                    "title": "The dt_tsigdif2_8b_cc_2019_2017 schema",
+                    "title": "dt_tsigdif2_8b_cc_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Clima de Convivencia)",
                     "default": "",
                     "examples": [
@@ -491,7 +491,7 @@
                 "dl_difgru_8b_soc_2019": {
                     "$id": "#/properties/valores/properties/dl_difgru_8b_soc_2019",
                     "type": "string",
-                    "title": "The dl_difgru_8b_soc_2019 schema",
+                    "title": "dl_difgru_8b_soc_2019",
                     "description": "Variacion del puntaje con año anterior, Historia y Ciencias Sociales",
                     "default": "",
                     "examples": [
@@ -501,7 +501,7 @@
                 "dl_tsiggru_8b_len_2019": {
                     "$id": "#/properties/valores/properties/dl_tsiggru_8b_len_2019",
                     "type": "string",
-                    "title": "The dl_tsiggru_8b_len_2019 schema",
+                    "title": "dl_tsiggru_8b_len_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar)",
                     "default": "",
                     "examples": [
@@ -511,7 +511,7 @@
                 "dl_cmprom_8b_soc_2014": {
                     "$id": "#/properties/valores/properties/dl_cmprom_8b_soc_2014",
                     "type": "string",
-                    "title": "The dl_cmprom_8b_soc_2014 schema",
+                    "title": "dl_cmprom_8b_soc_2014",
                     "description": "Puntaje 2014 Historia y Ciencias Sociales",
                     "default": "",
                     "examples": [
@@ -521,7 +521,7 @@
                 "tiene_informe_visita_2019_i": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_i",
                     "type": "string",
-                    "title": "The tiene_informe_visita_2019_i schema",
+                    "title": "tiene_informe_visita_2019_i",
                     "description": "Se indica que no muestre los informes de años anteriores en esta interfaz.",
                     "default": "",
                     "examples": [
@@ -531,7 +531,7 @@
                 "dl_cmprom_8b_soc_2019": {
                     "$id": "#/properties/valores/properties/dl_cmprom_8b_soc_2019",
                     "type": "string",
-                    "title": "The dl_cmprom_8b_soc_2019 schema",
+                    "title": "dl_cmprom_8b_soc_2019",
                     "description": "Puntaje 2019 Ciencias Sociales",
                     "default": "",
                     "examples": [
@@ -541,7 +541,7 @@
                 "dl_niveles": {
                     "$id": "#/properties/valores/properties/dl_niveles",
                     "type": "string",
-                    "title": "The dl_niveles schema",
+                    "title": "dl_niveles",
                     "description": "Nivel educacional",
                     "default": "",
                     "examples": [
@@ -551,7 +551,7 @@
                 "dl_idSostenedor": {
                     "$id": "#/properties/valores/properties/dl_idSostenedor",
                     "type": "string",
-                    "title": "The dl_idSostenedor schema",
+                    "title": "dl_idSostenedor",
                     "description": "ID del sostenedor del colegio",
                     "default": "",
                     "examples": [
@@ -561,7 +561,7 @@
                 "dl_difgru_8b_len_2019": {
                     "$id": "#/properties/valores/properties/dl_difgru_8b_len_2019",
                     "type": "string",
-                    "title": "The dl_difgru_8b_len_2019 schema",
+                    "title": "dl_difgru_8b_len_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), lenguaje.",
                     "default": "",
                     "examples": [
@@ -571,7 +571,7 @@
                 "dt_tdif_8b_am_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tdif_8b_am_2019_2017",
                     "type": "string",
-                    "title": "The dt_tdif_8b_am_2019_2017 schema",
+                    "title": "dt_tdif_8b_am_2019_2017",
                     "description": "Variacion del puntaje con año anterior (cifras), autoestima y motivación",
                     "default": "",
                     "examples": [
@@ -581,7 +581,7 @@
                 "tiene_informe_visita_2019_t": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_t",
                     "type": "string",
-                    "title": "The tiene_informe_visita_2019_t schema",
+                    "title": "tiene_informe_visita_2019_t",
                     "description": "Se indica que no muestre los informes de años anteriores en esta interfaz.",
                     "default": "",
                     "examples": [
@@ -591,7 +591,7 @@
                 "dl_cmprom_8b_mat_2019": {
                     "$id": "#/properties/valores/properties/dl_cmprom_8b_mat_2019",
                     "type": "string",
-                    "title": "The dl_cmprom_8b_mat_2019 schema",
+                    "title": "dl_cmprom_8b_mat_2019",
                     "description": "Puntaje 2014 Matematicas",
                     "default": "",
                     "examples": [
@@ -601,7 +601,7 @@
                 "dl_cmprom_8b_len_2019": {
                     "$id": "#/properties/valores/properties/dl_cmprom_8b_len_2019",
                     "type": "string",
-                    "title": "The dl_cmprom_8b_len_2019 schema",
+                    "title": "dl_cmprom_8b_len_2019",
                     "description": "Puntaje 2014 Lenguaje.",
                     "default": "",
                     "examples": [
@@ -611,7 +611,7 @@
                 "dl_difgru_8b_mat_2019": {
                     "$id": "#/properties/valores/properties/dl_difgru_8b_mat_2019",
                     "type": "string",
-                    "title": "The dl_difgru_8b_mat_2019 schema",
+                    "title": "dl_difgru_8b_mat_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), Matemáticas.",
                     "default": "",
                     "examples": [
@@ -621,7 +621,7 @@
                 "dl_comuna": {
                     "$id": "#/properties/valores/properties/dl_comuna",
                     "type": "string",
-                    "title": "The dl_comuna schema",
+                    "title": "dl_comuna",
                     "description": "Comuna",
                     "default": "",
                     "examples": [
@@ -631,7 +631,7 @@
                 "dl_dif_8b_soc_2019_2014": {
                     "$id": "#/properties/valores/properties/dl_dif_8b_soc_2019_2014",
                     "type": "string",
-                    "title": "The dl_dif_8b_soc_2019_2014 schema",
+                    "title": "dl_dif_8b_soc_2019_2014",
                     "description": "Variacion del puntaje con año anterior (cifras), Historia y Ciencias Sociales",
                     "default": "",
                     "examples": [
@@ -641,7 +641,7 @@
                 "dl_rbd": {
                     "$id": "#/properties/valores/properties/dl_rbd",
                     "type": "string",
-                    "title": "The dl_rbd schema",
+                    "title": "dl_rbd",
                     "description": "Codigo identificacion colegio",
                     "default": "",
                     "examples": [
@@ -651,7 +651,7 @@
                 "dl_dif_8b_mat_2019_2017": {
                     "$id": "#/properties/valores/properties/dl_dif_8b_mat_2019_2017",
                     "type": "string",
-                    "title": "The dl_dif_8b_mat_2019_2017 schema",
+                    "title": "dl_dif_8b_mat_2019_2017",
                     "description": "Variacion del puntaje con año anterior (cifras), Matemáticas",
                     "default": "",
                     "examples": [
@@ -661,7 +661,7 @@
                 "dt_cmind_8b_cc_2019": {
                     "$id": "#/properties/valores/properties/dt_cmind_8b_cc_2019",
                     "type": "string",
-                    "title": "The dt_cmind_8b_cc_2019 schema",
+                    "title": "dt_cmind_8b_cc_2019",
                     "description": "Clima de convivencia escolar",
                     "default": "",
                     "examples": [
@@ -671,7 +671,7 @@
                 "dt_tsigdif2_8b_hv_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tsigdif2_8b_hv_2019_2017",
                     "type": "string",
-                    "title": "The dt_tsigdif2_8b_hv_2019_2017 schema",
+                    "title": "dt_tsigdif2_8b_hv_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Habitos de vida)",
                     "default": "",
                     "examples": [
@@ -681,7 +681,7 @@
                 "dl_tsigdif_8b_soc_2019_2014": {
                     "$id": "#/properties/valores/properties/dl_tsigdif_8b_soc_2019_2014",
                     "type": "string",
-                    "title": "The dl_tsigdif_8b_soc_2019_2014 schema",
+                    "title": "dl_tsigdif_8b_soc_2019_2014",
                     "description": "Comparación con puntajes de 2014 a 2019 al obtenido actualmente (Historia, Geografía y Ciencias Sociales).",
                     "default": "",
                     "examples": [
@@ -691,7 +691,7 @@
                 "dl_nombre": {
                     "$id": "#/properties/valores/properties/dl_nombre",
                     "type": "string",
-                    "title": "The dl_nombre schema",
+                    "title": "dl_nombre",
                     "description": "Nombre del colegio buscado",
                     "default": "",
                     "examples": [
@@ -701,7 +701,7 @@
                 "dt_tsigdif2_8b_am_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tsigdif2_8b_am_2019_2017",
                     "type": "string",
-                    "title": "The dt_tsigdif2_8b_am_2019_2017 schema",
+                    "title": "dt_tsigdif2_8b_am_2019_2017",
                     "description": "Comparación con puntajes de 2017 a 2019 al obtenido actualmente (Autoestima y motivación)..",
                     "default": "",
                     "examples": [
@@ -711,7 +711,7 @@
                 "dl_dif_8b_len_2019_2017": {
                     "$id": "#/properties/valores/properties/dl_dif_8b_len_2019_2017",
                     "type": "string",
-                    "title": "The dl_dif_8b_len_2019_2017 schema",
+                    "title": "dl_dif_8b_len_2019_2017",
                     "description": "Variacion del puntaje con año anterior (cifras), lenguaje",
                     "default": "",
                     "examples": [
@@ -721,7 +721,7 @@
                 "dt_tdifgru_8b_pf_2019": {
                     "$id": "#/properties/valores/properties/dt_tdifgru_8b_pf_2019",
                     "type": "string",
-                    "title": "The dt_tdifgru_8b_pf_2019 schema",
+                    "title": "dt_tdifgru_8b_pf_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), Participacion y formacion",
                     "default": "",
                     "examples": [
@@ -731,7 +731,7 @@
                 "dt_tdifgru_8b_am_2019": {
                     "$id": "#/properties/valores/properties/dt_tdifgru_8b_am_2019",
                     "type": "string",
-                    "title": "The dt_tdifgru_8b_am_2019 schema",
+                    "title": "dt_tdifgru_8b_am_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), autoestima y motivacion",
                     "default": "",
                     "examples": [
@@ -741,7 +741,7 @@
                 "dt_tdif_8b_hv_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tdif_8b_hv_2019_2017",
                     "type": "string",
-                    "title": "The dt_tdif_8b_hv_2019_2017 schema",
+                    "title": "dt_tdif_8b_hv_2019_2017",
                     "description": "Variacion del puntaje con año anterior (cifras), habitos de vida",
                     "default": "",
                     "examples": [
@@ -751,7 +751,7 @@
                 "dl_tsiggru_8b_mat_2019": {
                     "$id": "#/properties/valores/properties/dl_tsiggru_8b_mat_2019",
                     "type": "string",
-                    "title": "The dl_tsiggru_8b_mat_2019 schema",
+                    "title": "dl_tsiggru_8b_mat_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar), Matemáticas",
                     "default": "",
                     "examples": [
@@ -761,7 +761,7 @@
                 "dt_tdifgru_8b_cc_2019": {
                     "$id": "#/properties/valores/properties/dt_tdifgru_8b_cc_2019",
                     "type": "string",
-                    "title": "The dt_tdifgru_8b_cc_2019 schema",
+                    "title": "dt_tdifgru_8b_cc_2019",
                     "description": "Variacion del puntaje con año anterior (cifras), climas de convivencia",
                     "default": "",
                     "examples": [
@@ -771,7 +771,7 @@
                 "dt_cmind_8b_pf_2019": {
                     "$id": "#/properties/valores/properties/dt_cmind_8b_pf_2019",
                     "type": "string",
-                    "title": "The dt_cmind_8b_pf_2019 schema",
+                    "title": "dt_cmind_8b_pf_2019",
                     "description": "Participación y formación ciudadana",
                     "default": "",
                     "examples": [
@@ -781,7 +781,7 @@
                 "dt_cmind_8b_hv_2019": {
                     "$id": "#/properties/valores/properties/dt_cmind_8b_hv_2019",
                     "type": "string",
-                    "title": "The dt_cmind_8b_hv_2019 schema",
+                    "title": "dt_cmind_8b_hv_2019",
                     "description": "Hábitos de vida saludable",
                     "default": "",
                     "examples": [
@@ -791,7 +791,7 @@
                 "dt_cmind_8b_am_2019": {
                     "$id": "#/properties/valores/properties/dt_cmind_8b_am_2019",
                     "type": "string",
-                    "title": "The dt_cmind_8b_am_2019 schema",
+                    "title": "dt_cmind_8b_am_2019",
                     "description": "Autoestima académica y motivación escolar",
                     "default": "",
                     "examples": [
@@ -801,7 +801,7 @@
                 "dt_tsiggru2_8b_cc_2019": {
                     "$id": "#/properties/valores/properties/dt_tsiggru2_8b_cc_2019",
                     "type": "string",
-                    "title": "The dt_tsiggru2_8b_cc_2019 schema",
+                    "title": "dt_tsiggru2_8b_cc_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) ",
                     "default": "",
                     "examples": [
@@ -811,7 +811,7 @@
                 "dl_sigdif_8b_soc_2019_2014": {
                     "$id": "#/properties/valores/properties/dl_sigdif_8b_soc_2019_2014",
                     "type": "string",
-                    "title": "The dl_sigdif_8b_soc_2019_2014 schema",
+                    "title": "dl_sigdif_8b_soc_2019_2014",
                     "description": "Comparación con puntajes de 2014 a 2019 al obtenido actualmente (Historia, Geografía y Ciencias Sociales)..",
                     "default": "",
                     "examples": [
@@ -821,7 +821,7 @@
                 "tiene_informe_visita_2017": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2017",
                     "type": "string",
-                    "title": "The tiene_informe_visita_2017 schema",
+                    "title": "tiene_informe_visita_2017",
                     "description": "Se indica que no muestre los informes de años anteriores en esta interfaz.",
                     "default": "",
                     "examples": [
@@ -831,7 +831,7 @@
                 "dt_tsiggru2_8b_hv_2019": {
                     "$id": "#/properties/valores/properties/dt_tsiggru2_8b_hv_2019",
                     "type": "string",
-                    "title": "The dt_tsiggru2_8b_hv_2019 schema",
+                    "title": "dt_tsiggru2_8b_hv_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) Habitos de vida.",
                     "default": "",
                     "examples": [
@@ -841,7 +841,7 @@
                 "tiene_informe_visita_2018": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2018",
                     "type": "string",
-                    "title": "The tiene_informe_visita_2018 schema",
+                    "title": "tiene_informe_visita_2018",
                     "description": "Se indica que no muestre los informes de años anteriores en esta interfaz.",
                     "default": "",
                     "examples": [
@@ -851,7 +851,7 @@
                 "dl_region": {
                     "$id": "#/properties/valores/properties/dl_region",
                     "type": "string",
-                    "title": "The dl_region schema",
+                    "title": "dl_region",
                     "description": "Región de ubicación del colegio revisado",
                     "default": "",
                     "examples": [
@@ -861,7 +861,7 @@
                 "dt_tsiggru2_8b_pf_2019": {
                     "$id": "#/properties/valores/properties/dt_tsiggru2_8b_pf_2019",
                     "type": "string",
-                    "title": "The dt_tsiggru2_8b_pf_2019 schema",
+                    "title": "dt_tsiggru2_8b_pf_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) Participacion y formacion.",
                     "default": "",
                     "examples": [
@@ -871,7 +871,7 @@
                 "tiene_informe_visita_2019_im": {
                     "$id": "#/properties/valores/properties/tiene_informe_visita_2019_im",
                     "type": "string",
-                    "title": "The tiene_informe_visita_2019_im schema",
+                    "title": "tiene_informe_visita_2019_im",
                     "description": "Se indica que no muestre los informes de años anteriores en esta interfaz.",
                     "default": "",
                     "examples": [
@@ -881,7 +881,7 @@
                 "dt_tsiggru2_8b_am_2019": {
                     "$id": "#/properties/valores/properties/dt_tsiggru2_8b_am_2019",
                     "type": "string",
-                    "title": "The dt_tsiggru2_8b_am_2019 schema",
+                    "title": "dt_tsiggru2_8b_am_2019",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) Autoestima y motivación",
                     "default": "",
                     "examples": [
@@ -891,7 +891,7 @@
                 "dt_tdif_8b_cc_2019_2017": {
                     "$id": "#/properties/valores/properties/dt_tdif_8b_cc_2019_2017",
                     "type": "string",
-                    "title": "The dt_tdif_8b_cc_2019_2017 schema",
+                    "title": "dt_tdif_8b_cc_2019_2017",
                     "description": "Variación puntaje con años anteriores (mas alto, mas bajo, similar) Clima de Convivencia",
                     "default": "",
                     "examples": [
@@ -904,7 +904,7 @@
         "campos": {
             "$id": "#/properties/campos",
             "type": "array",
-            "title": "The campos schema",
+            "title": "campos",
             "description": "Campos nombre del colegio y el código RBD del colegio",
             "default": [],
             "examples": [
@@ -926,7 +926,7 @@
                     {
                         "$id": "#/properties/campos/items/anyOf/0",
                         "type": "object",
-                        "title": "The first anyOf schema",
+                        "title": "first anyOf",
                         "description": "Nombre colegio",
                         "default": {},
                         "examples": [
@@ -943,7 +943,7 @@
                             "funcion": {
                                 "$id": "#/properties/campos/items/anyOf/0/properties/funcion",
                                 "type": "string",
-                                "title": "The funcion schema",
+                                "title": "funcion",
                                 "description": "",
                                 "default": "",
                                 "examples": [
@@ -953,7 +953,7 @@
                             "campo": {
                                 "$id": "#/properties/campos/items/anyOf/0/properties/campo",
                                 "type": "string",
-                                "title": "The campo schema",
+                                "title": "campo",
                                 "description": "Nombre colegio",
                                 "default": "",
                                 "examples": [
