@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversion</title>
+</head>
+<body>
+    <h2>Valores JSON</h2>
+    <p id="demo"></p>
+    <b>Sostenedor Media</b>
+    <p id="media"></p>
+    <b>Sostenedor Básica</b>
+    <p id="basica"></p>
+
+    <script>
+        var jsonobj ='{"Media_2017_Sostenedor":"70938800","Basica_2017_Sostenedor":"70938800","SOSTENEDORES_IIM_2016":"70938800","SOSTENEDORES_BASICO_2015":"70938800","SOSTENEDORES_BASICA_2016":"70938800","idsos":"70938800","Sostenedor_Media_2018":"70938800","Sostenedor_Basica_2018":"70938800","SOSTENEDORES_8B_IIM_2015":"70938800"}';
+
+        var obj = JSON.parse(jsonobj);
+
+        document.getElementById("media").innerHTML = obj.Media_2017_Sostenedor + ' / '
+        + obj.Sostenedor_Media_2018 + ' / ' + obj.SOSTENEDORES_IIM_2016;
+        
+        document.getElementById("demo").innerHTML = jsonobj;
+        
+    </script>
+</body>
+</html>
